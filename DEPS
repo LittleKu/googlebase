@@ -12,7 +12,6 @@ vars = {
 
   'icu_revision': '08cb956852a5ccdba7f9c941728bb833529ba3c6',
   'skia_revision': 'e0e20755f6c09b71038ced2bf4a00b4c4593f504',
-  'icu_revision': '08cb956852a5ccdba7f9c941728bb833529ba3c6',
   'clang_revision': 'a1420b85586c1fa3eaf68808bbb095334d2d271d',
   'gen_library_loader_revision': '916d4acd8b2cde67a390737dfba90b3c37de23a1',
   'libfuzzer_revision': 'be060c214102e6ce94a3f9a9841d197266d4af7c',
